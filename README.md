@@ -1,4 +1,4 @@
-<h1 align="start">Hi, I'm Joice Ceron🌸</h1>
+<h1 align="start">Hi, I'm Joice Ceron</h1>
 <p align="start">I am a detail-oriented Software Engineer with expertise in graphic design, UI/UX, and game development. Driven by my passion for visual experiences, I integrate web development tools with my Adobe Suite skills to create scalable, engaging, and functional applications.</p>
 
 <h2>About Me</h2>
